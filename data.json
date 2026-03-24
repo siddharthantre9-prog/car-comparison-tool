@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hyundai Creta",
+    "price": "11L",
+    "mileage": "17 kmpl",
+    "engine": "1.5L Petrol"
+  },
+  {
+    "name": "Kia Seltos",
+    "price": "10.9L",
+    "mileage": "16.5 kmpl",
+    "engine": "1.5L Petrol"
+  }
+]
