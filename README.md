@@ -16,3 +16,8 @@ User selects two cars → system compares:
 - Features
 
 Outputs better option based on data.
+
+## Future Improvements
+- Web interface
+- Real-time data integration
+- Advanced comparison engine
