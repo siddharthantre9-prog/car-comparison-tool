@@ -68,3 +68,4 @@ if car1_mileage > car2_mileage:
     print("Car 1 has better mileage")
 else:
     print("Car 2 has better mileage")
+
