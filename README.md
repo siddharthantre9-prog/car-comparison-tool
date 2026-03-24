@@ -60,7 +60,10 @@ else:
 
 
 
-
+## Future Improvements
+- Web-based interface
+- Real-time car data integration
+- Advanced scoring system
 
 
 
