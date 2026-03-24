@@ -8,3 +8,4 @@ This tool helps users compare cars based on:
 Built for Indian car buyers.
 
 Status: Work in progress
+Next update: adding comparison feature
