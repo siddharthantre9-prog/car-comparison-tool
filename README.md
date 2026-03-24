@@ -1,70 +1,70 @@
 # Car Comparison Tool (India)
 
-This tool helps users compare cars based on:
-- Price
-- Mileage
-- Engine
+A simple comparison system designed to help Indian car buyers make better decisions using structured data.
 
-Built for Indian car buyers.
+---
 
-Status: Work in progress
-Next update: adding comparison feature
-## How it works
-User selects two cars → system compares:
+## Problem
+Car buyers often get confused between multiple options with similar pricing and features.
+
+---
+
+## Solution
+This tool compares two cars based on:
 - Price
 - Mileage
 - Features
 
-Outputs better option based on data.
+And provides a simple, practical verdict.
 
-## Future Improvements
-- Web interface
-- Real-time data integration
-- Advanced comparison engine
+---
+
+## Features
+- Compare two cars side-by-side
+- Structured automobile dataset
+- Easy-to-understand output
+
+---
+
+## How It Works
+1. User selects two cars from dataset  
+2. System compares:
+   - Price  
+   - Mileage  
+   - Features  
+3. Outputs a final recommendation  
+
+---
 
 ## Example Output
 
-Comparing:
-Hyundai Creta vs Kia Seltos
+Comparing:  
+Hyundai Creta vs Kia Seltos  
 
 Result:
-- Price: Similar
-- Mileage: Creta slightly better
-- Features: Seltos offers more tech
+- Price: Similar  
+- Mileage: Creta slightly better  
+- Features: Seltos offers more tech  
 
-Final Verdict:
-Kia Seltos is better for features, Creta for balanced usage.
+Final Verdict:  
+Kia Seltos is better for features, Creta for balanced usage  
+
+---
 
 ## How to Run
 
-1. Install Python
+1. Install Python  
 2. Run:
-   python compare.py
+   python compare.py  
 
-3. Output will show comparison between cars
+3. View comparison output in terminal  
 
-## How It Works
+---
 
-- User selects two cars from dataset
-- System compares:
-  - Price
-  - Mileage
-  - Features
-- Outputs better option based on data
+## Sample Logic
 
-
+```python
 if car1_mileage > car2_mileage:
     print("Car 1 has better mileage")
 else:
     print("Car 2 has better mileage")
-
-
-
-## Future Improvements
-- Web-based interface
-- Real-time car data integration
-- Advanced scoring system
-
-
-
-    
